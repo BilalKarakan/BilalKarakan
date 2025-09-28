@@ -37,6 +37,7 @@
 ---
 
 ## 🌐 Connect With Me  
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/@BilalKarakan)
 <p align="left">
   <a href="https://tr.linkedin.com/in/bilalkarakan">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -45,5 +46,4 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/@BilalKarakan)
 
