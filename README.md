@@ -32,7 +32,9 @@
 ---
 
 ## 📌 Featured Projects  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BilalKarakan&repo=your-repo-name&theme=radical)](https://github.com/BilalKarakan/your-repo-name)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BilalKarakan&repo=ELearningSystem&theme=radical)](https://github.com/BilalKarakan/ELearningSystem)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BilalKarakan&repo=CleanArchitectureTemplate&theme=radical)](https://github.com/BilalKarakan/CleanArchitectureTemplate)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BilalKarakan&repo=IdentityManagementSystem&theme=radical)](https://github.com/BilalKarakan/IdentityManagementSystem)  
 
 ---
 
