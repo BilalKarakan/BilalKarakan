@@ -3,11 +3,13 @@
 ## 🚀 About Me  
 - 💻 Experienced in **.NET, C#, EF Core, Web Forms, Windows Forms**  
 - ☁️ Cloud & DevOps with **Azure, Docker**  
-- 🌐 Web development using **JavaScript, TypeScript, Angular, HTML, CSS, Bootstrap**  
+- 🌐 Web development using **JavaScript, TypeScript, Angular, jQuery, HTML, CSS, Bootstrap**  
 - 🗄 Databases: **SQL Server, PostgreSQL, MySQL**  
 - 📡 Message Brokers & Cache: **RabbitMQ, Redis**  
 - 🔍 Search & Analytics: **ElasticSearch**  
-- 🛠 Passionate about **Clean Architecture, Scalable Systems, and Software Design**  
+- 🛠 Tools: **Visual Studio, Visual Studio Code, Postman, SoapUI, Git**  
+- 🔬 Languages: **C, C++**  
+- ❤️ Passionate about **Clean Architecture, Scalable Systems, and Software Design**  
 
 ---
 
@@ -24,8 +26,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,git,github,html,css,js,ts,angular,bootstrap,mysql,postgres,redis,docker" />
-  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,git,github,html,css,js,ts,jquery,angular,bootstrap,mysql,postgres,redis,docker,visualstudio,vscode,postman,c,cpp" />
 </p>  
 
 ---
@@ -36,5 +37,14 @@
 ---
 
 ## 🌐 Connect With Me  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://tr.linkedin.com/in/bilalkarakan)  
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/@BilalKarakan)  
+<p align="left">
+  <a href="https://tr.linkedin.com/in/bilalkarakan">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://medium.com/@BilalKarakan">
+    <img src="https://skillicons.dev/icons?i=medium" />
+  </a>
+  <a href="mailto:bilalkarakan34@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
