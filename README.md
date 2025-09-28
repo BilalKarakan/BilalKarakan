@@ -45,5 +45,5 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/@BilalKarakan
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/@BilalKarakan)
 
