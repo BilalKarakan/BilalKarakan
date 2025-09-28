@@ -41,9 +41,7 @@
   <a href="https://tr.linkedin.com/in/bilalkarakan">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://medium.com/@BilalKarakan">
-    <img src="https://skillicons.dev/icons?i=medium" />
-  </a>
+  [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/@BilalKarakan
   <a href="mailto:bilalkarakan34@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
