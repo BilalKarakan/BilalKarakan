@@ -14,8 +14,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://gh-stats-ochre.vercel.app/api?username=BilalKarakan&show_icons=true&theme=radical)
-![Top Langs](https://gh-stats-ochre.vercel.app/api/top-langs/?username=BilalKarakan&layout=compact&theme=radical)  
+![GitHub stats](https://git-stats-six.vercel.app/api?username=BilalKarakan&show_icons=true&theme=radical)
+![Top Langs](https://git-stats-six.vercel.app/api/top-langs/?username=BilalKarakan&layout=compact&theme=radical)
 
 ---
 
